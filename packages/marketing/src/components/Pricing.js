@@ -161,7 +161,7 @@ export default function Pricing() {
           color="textSecondary"
           component="p"
         >
-          Quickly build an effective pricing table a for your potential customers
+          Quickly build a effective pricing table a for your potential customers
           with this layout. It&apos;s built with default Material-UI components
           with little customization.
         </Typography>
